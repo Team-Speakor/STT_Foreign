@@ -1,7 +1,7 @@
 # STT_Foreign
-STT_Foreign/
-├── data/                     # 데이터 관련 폴더
-│   ├── train/                 
+# STT_Foreign/
+# ├── data/                     # 데이터 관련 폴더
+# │   ├── train/                 
 │   ├── validation/                
 │   └── test/           
 ├── notebooks/                # Jupyter Notebooks 
